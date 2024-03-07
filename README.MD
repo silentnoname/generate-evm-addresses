@@ -1,0 +1,1 @@
+A simple repo to generate multiple evm mnemonic and address
